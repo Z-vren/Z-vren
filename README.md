@@ -105,19 +105,19 @@ Worked on segmentation-focused projects, including:
 ## Tech Stack
 
 **Languages**  
-Python, Java, C#, SQL, HTML, CSS, JavaScript
+Python, Java,  SQL, HTML, CSS, JavaScript
 
 **AI / ML**  
 PyTorch, Transformers, Hugging Face, PEFT, LoRA, Scikit-learn, NumPy, Pandas
 
 **LLM / NLP / RAG**  
-LangChain, LangGraph, LlamaIndex, RAG pipelines, vector databases, embeddings, ChromaDB, AI evaluation
+LangChain, MCP (Model Context Protocol), LlamaIndex, RAG pipelines, vector databases, embeddings, ChromaDB, AI evaluation
 
 **Web / App Development**  
 React, Vite, Next.js, Streamlit, Tailwind CSS, Node.js, FastAPI
 
 **Data / Backend / Infra**  
-PostgreSQL, Redis, Docker, REST APIs, Git, GitHub, Nx, Nginx, Azure
+PostgreSQL, MongoDB, AWS S3 for object storage, Redis, Docker, REST APIs, Git, GitHub, Nx, Nginx
 
 ---
 
