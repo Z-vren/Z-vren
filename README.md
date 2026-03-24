@@ -1,4 +1,4 @@
-# Hi, I'm Zohha Azhar 👋
+# Hi, I'm Zohha 
 
 Final-semester **BS Data Science** student at **PUCIT** with hands-on experience building **AI/ML systems, NLP applications, computer vision pipelines, automation platforms, and full-stack AI products**.
 
