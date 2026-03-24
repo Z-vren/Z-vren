@@ -156,8 +156,3 @@ I'm focused on building **portfolio-worthy, production-oriented projects** and g
 
 ---
 
-## GitHub Stats
-<
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-vren&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-vren&layout=compact)
->
