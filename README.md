@@ -152,7 +152,7 @@ I'm focused on building **portfolio-worthy, production-oriented projects** and g
 ## Connect with Me
 - LinkedIn: www.linkedin.com/in/zohha-azhar-4666b528a
 - Email: zohhazhar13@gmail.com
-- Portfolio / Resume: https://flowcv.com/resume/sgn63s0aeqhj
+- Resume: https://flowcv.com/resume/sgn63s0aeqhj
 
 ---
 
