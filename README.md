@@ -57,17 +57,17 @@ Worked on:
 
 **Tech used:** RAG, LLMs, LlamaIndex, ChromaDB, embeddings, Streamlit, Azure, Backend APIs, evaluation metrics
 
-### GridWatch (in progress)
+### GridWatch 
 A production-style electricity load forecasting project built around real-world PJM energy data.
 Worked on:
 - data ingestion and preprocessing
+- feature engineering
 - bronze / silver / gold data layers
 - time-series forecasting
-- FastAPI model serving
-- dashboard integration
-- analytics-oriented system design
+- multi horizon forecasting
+- walk back-testing
 
-**Tech used:** Python, Pandas, Scikit-learn, FastAPI, forecasting pipelines, data engineering
+**Tech used:** Python, Pandas, Parquet, Scikit-learn, LightGBM, forecasting pipelines, data engineering
 
 ### Resume-Job Match Scorer
 An NLP-based application for scoring resumes against job descriptions using document similarity and ranking techniques.
