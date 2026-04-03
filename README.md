@@ -1,4 +1,4 @@
-# Hi, I'm Zohha 
+# Hi, I'm Zohha
 
 Final-semester **BS Data Science** student at **PUCIT** with hands-on experience building **AI/ML systems, NLP applications, computer vision pipelines, automation platforms, and full-stack AI products**.
 
@@ -18,6 +18,7 @@ I enjoy turning technical ideas into practical systems - whether that means trai
 
 ### Opsyn
 A workflow automation platform inspired by Activepieces, extended with custom features for a more powerful and collaborative experience.
+
 Worked on:
 - workflow automation architecture
 - dashboard and flow analytics
@@ -27,10 +28,11 @@ Worked on:
 - LLM-based workflow generation with fine-tuned models
 - cloud deployment
 
-**Tech used:** Python, FASTAPI, React, Vite, Node.js, FastAPI, Docker, Redis, PostgreSQL, Nx, Transformers, QLoRA, Qwen2.5-7B-Coder-Instrcut, Model fine tuning, Modal (GPU Inference), Azure, Prompt Engineering
+**Tech used:** Python, FastAPI, React, Vite, Node.js, Docker, Redis, PostgreSQL, Nx, Transformers, QLoRA, Qwen2.5-7B-Coder-Instruct, model fine-tuning, Modal (GPU inference), Azure, prompt engineering
 
 ### Kafka Realtime Chat Platform
 A scalable, microservices-based realtime chat platform using Apache Kafka, FastAPI, and WebSockets for event-driven messaging and horizontal scaling.
+
 Worked on:
 - event-driven microservices architecture
 - realtime WebSocket communication
@@ -45,6 +47,7 @@ Worked on:
 
 ### AI Research Copilot
 An AI-powered research assistant built for **multi-paper search, extraction, and grounded Q&A**.
+
 Worked on:
 - Retrieval-Augmented Generation (RAG)
 - LLM-powered research workflows
@@ -55,22 +58,11 @@ Worked on:
 - Streamlit app development
 - cloud deployment
 
-**Tech used:** RAG, LLMs, LlamaIndex, ChromaDB, embeddings, Streamlit, Azure, Backend APIs, evaluation metrics
-
-### GridWatch 
-A production-style electricity load forecasting project built around real-world PJM energy data.
-Worked on:
-- data ingestion and preprocessing
-- feature engineering
-- bronze / silver / gold data layers
-- time-series forecasting
-- multi horizon forecasting
-- walk back-testing
-
-**Tech used:** Python, Pandas, Parquet, Scikit-learn, LightGBM, forecasting pipelines, data engineering
+**Tech used:** RAG, LLMs, LlamaIndex, ChromaDB, embeddings, Streamlit, Azure, backend APIs, evaluation metrics
 
 ### Resume-Job Match Scorer
 An NLP-based application for scoring resumes against job descriptions using document similarity and ranking techniques.
+
 Worked on:
 - TF-IDF
 - cosine similarity
@@ -82,15 +74,15 @@ Worked on:
 
 ### Autism Statistical Analysis Project
 A probability and statistics project focused on autism spectrum disorder, exploring prediction-related questions and the challenges faced by children aged 4-11 years with autism through structured data analysis.
+
 Worked on:
 - problem framing for autism-related analysis
 - data collection and dataset understanding
 - statistical exploration of autism-related variables (general behaviour, communication skills, academic performance)
-- interpreting patterns and challenges through data by performing various non parametric statistical tests
-- applying unsupervised machine learning (K-prototypes algortihm) to identify subgroups within data
+- interpreting patterns and challenges through data by performing various non-parametric statistical tests
+- applying unsupervised machine learning (K-prototypes algorithm) to identify subgroups within data
 
-
-**Tech used:** Statistics, probability, data analysis, Python, Unsupervised Machine Learning, Clustering algorithms, Multiple Correspondance analysis
+**Tech used:** Statistics, probability, data analysis, Python, unsupervised machine learning, clustering algorithms, Multiple Correspondence Analysis
 
 ### Computer Vision Projects
 Worked on segmentation-focused projects, including:
@@ -105,7 +97,7 @@ Worked on segmentation-focused projects, including:
 ## Tech Stack
 
 **Languages**  
-Python, Java,  SQL, HTML, CSS, JavaScript
+Python, Java, SQL, HTML, CSS, JavaScript
 
 **AI / ML**  
 PyTorch, Transformers, Hugging Face, PEFT, LoRA, Scikit-learn, NumPy, Pandas
@@ -130,12 +122,28 @@ PostgreSQL, MongoDB, AWS S3 for object storage, Redis, Docker, REST APIs, Git, G
 
 ---
 
+## Currently Working On
+
+### Code Origin Analyzer
+Currently developing an end-to-end ML system for detecting whether source code is human-written or AI-generated, based on the **SemEval 2026 Task 13 - Subtask A** dataset.
+
+Working on:
+- analyzing code patterns across multiple programming languages
+- training baseline and advanced classification models for AI-code detection
+- engineering structural and stylometric features from code snippets
+- testing generalization on unseen and out-of-distribution code samples
+- building a lightweight demo app for interpretable predictions and confidence scoring
+
+**Tech used:** Python, Pandas, Scikit-learn, TF-IDF, feature engineering, XGBoost/LightGBM, Transformers, code embeddings, Streamlit, FastAPI
+
+---
+
 ## Currently Exploring
 - production-grade AI systems
 - agentic workflows and tool-using LLM applications
 - better ML system design for real-world deployment
 - stronger backend and full-stack development for AI products
-- sharper DSA, SQL, OOP and interview fundamentals
+- sharper DSA, SQL, OOP, and interview fundamentals
 
 ---
 
@@ -153,6 +161,3 @@ I'm focused on building **portfolio-worthy, production-oriented projects** and g
 - LinkedIn: www.linkedin.com/in/zohha-azhar-4666b528a
 - Email: zohhazhar13@gmail.com
 - Resume: https://flowcv.com/resume/sgn63s0aeqhj
-
----
-
